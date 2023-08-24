@@ -1,4 +1,4 @@
-# Extract, Transform, and Load (ETL): Crowdfunding_Project
+# Crowdfunding data | Extract, Transform, and Load (ETL)
 The ETL process was implemented to manipulate dataframes to create csv files into schemas and relationship tables from a Crowdfunding-related excel dataset. 
 
 ## Technologies Applied
